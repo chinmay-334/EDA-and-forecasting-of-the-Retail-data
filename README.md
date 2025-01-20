@@ -25,3 +25,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/chinmay-334/EDA-and-forecasting-of-the-retail-data.git
+```
+---
+
+### Our Application
+
+This is streamlit based application 
