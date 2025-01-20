@@ -28,6 +28,6 @@ git clone https://github.com/chinmay-334/EDA-and-forecasting-of-the-retail-data.
 ```
 ---
 
-### Our Application
+## Our Application
 
 This is streamlit based application 
