@@ -1,8 +1,8 @@
 # EDA and forecasting of the Retail data
 
 
-
 This Project focusses on the principle of Data Driven decision making where the retail data of 500 customers is taken and sales are evaluates.
+
 ---
 
 ## Tasks
