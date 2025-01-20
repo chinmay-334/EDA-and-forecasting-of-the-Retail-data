@@ -20,4 +20,4 @@ This Project focusses on the principle of Data Driven decision making where the 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/chinmay-334/EDA-and-forecasting-of-the-retail-data.git
