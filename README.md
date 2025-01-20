@@ -17,6 +17,10 @@ This Project focusses on the principle of Data Driven decision making where the 
 
 ## Installation
 
+Install the required libraries:
+```bash
+pip install requirements.txt
+```
 Clone the repository:
 
 ```bash
